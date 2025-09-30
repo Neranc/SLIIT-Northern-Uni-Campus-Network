@@ -37,4 +37,4 @@ The solution leveraged Fortinet and HP/Aruba technologies to provide **security,
 - **Secure multi-zone firewall architecture** for access separation.  
 - **Campus-wide Wi-Fi** with centralized management.  
 - **Role-based segmentation** between students, staff, and guests.  
-- **High availab**
+- **High availability**
