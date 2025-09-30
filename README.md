@@ -5,16 +5,17 @@
 
 🔗 [SLIIT Northern UNI Website](https://northernuni.lk)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I delivered a **greenfield deployment of a secure campus network** for **SLIIT Northern UNI – Jaffna**, enabling modern connectivity for students, staff, and academic resources.  
 
 The deployment combined **advanced firewall segmentation, centralized wireless control, and high-availability switching**, ensuring a scalable and secure foundation for the university’s growing technology needs.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - No existing secure infrastructure (greenfield site).  
 - Requirement for **segregated student and staff access**.  
 - Demand for **campus-wide wireless** with high availability.  
@@ -22,7 +23,7 @@ The deployment combined **advanced firewall segmentation, centralized wireless c
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 The solution leveraged Fortinet and HP/Aruba technologies to provide **security, reliability, and scalability**:  
 - **FortiGate firewalls** with multi-zone segmentation (students, staff, guest).  
 - **FortiAPs with centralized controller** for secure Wi-Fi across campus.  
@@ -32,8 +33,8 @@ The solution leveraged Fortinet and HP/Aruba technologies to provide **security,
 
 ---
 
-## 📊 Outcomes & Benefits
-- 🔒 **Secure multi-zone firewall architecture** for access separation.  
-- 📡 **Campus-wide Wi-Fi** with centralized management.  
-- 🛡️ **Role-based segmentation** between students, staff, and guests.  
-- 📈 **High availab**
+## Outcomes & Benefits
+- **Secure multi-zone firewall architecture** for access separation.  
+- **Campus-wide Wi-Fi** with centralized management.  
+- **Role-based segmentation** between students, staff, and guests.  
+- **High availab**
