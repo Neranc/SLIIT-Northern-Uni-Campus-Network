@@ -1,5 +1,7 @@
 # Secure Campus Network Deployment – SLIIT Northern UNI (Jaffna)  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 🔗 [SLIIT Northern UNI Website](https://northernuni.lk)  
 
